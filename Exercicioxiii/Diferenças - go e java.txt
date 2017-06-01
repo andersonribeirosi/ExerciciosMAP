@@ -1,0 +1,3 @@
+Go não tem herança, a linguagem consegue ter economia de código e fazer uso do polimorfismo utilizando interfaces e composição.
+
+Em Java, heranças e composições são permitidas, herança simples (extender no máximo uma classe pai). Não aceita heranças múltiplas com em C++ e Python por exemplo. 
